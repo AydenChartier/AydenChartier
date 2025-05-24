@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AydenChartier
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning HTML5,CSS,JavaScript,React
+PY GUY
 
 <!---
 AydenChartier/AydenChartier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
